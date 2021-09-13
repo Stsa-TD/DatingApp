@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\Stefan\\OneDrive\\Development\\Angular-Training\\NET-Kurs\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stefan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
