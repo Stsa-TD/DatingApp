@@ -453,4 +453,9 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+<<<<<<< HEAD
 appsettings.json
+=======
+appsettings.json
+*.assets.cache
+>>>>>>> b370169b9208bfe23a77ce201b43f680e2c7ab41
