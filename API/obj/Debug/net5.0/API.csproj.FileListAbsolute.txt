@@ -53,3 +53,10 @@ C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin
 C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\obj\Debug\net5.0\refint\API.dll
 C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\OneDrive\Development\Angular-Training\NET-Kurs\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
